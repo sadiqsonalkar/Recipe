@@ -6,7 +6,7 @@ This application will serve as a platform that let us search the recipe we want 
 Introduction: 
 There are a number of applications in Android store for Recipes Search but none of them support interface for searching, saving them into favourites, and give detail of the recipe all at once.
 S Foody is an Android application with image-based UI for searching, saving recipes and getting detail of the recipe.
-This app provides flexibility to user to search variety of recipes from available recipes in the API.
+This app provides flexibility to user to search variety in recipes from available recipes in the API.
 In this Application I’m using Spoonacular API. This is one of the best API for searching recipe.
 This app is time saver providing recipes in few clicks. By combining ingredients and title search, S Foody app makes finding recipes easy.
 The project has been implemented using Kotlin, Android Studio and The Spoonacular API.
